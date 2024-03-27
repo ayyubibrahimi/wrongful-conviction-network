@@ -13,6 +13,6 @@ The Innocence Project New Orleans (IPNO) aims to reveal systemic issues within t
 
 ## Navigation through the Project
 
-- **Previous Stage:** [Wrongful Conviction Data Processing Pipeline Stage 2](https://github.com/your-previous-stage-repo)
+- **Previous Stage:** [Wrongful Conviction Data Processing Pipeline Stage 2](https://github.com/ayyubibrahimi/wrongful-convictions-entity-res)
 
 
